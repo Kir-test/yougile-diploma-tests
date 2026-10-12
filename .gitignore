@@ -1,0 +1,33 @@
+Environment variables and secrets
+
+.env
+.env.*
+
+Python cache
+
+pycache/
+*.py[cod]
+.pytest_cache/
+
+Virtual environment
+
+.venv/
+venv/
+
+Test reports and results
+
+allure-results/
+allure-report/
+reports/
+
+IDE settings
+
+.vscode/
+
+OS files
+
+.DS_Store
+Thumbs.db
+
+# Step screenshots for diploma (keep 01-04, Очистка; ignore FAIL_*)
+screenshots/FAIL_*.png
