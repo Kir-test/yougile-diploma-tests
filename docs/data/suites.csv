@@ -1,0 +1,7 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","46838","Успешный вход в YouGile","ui_tests","2026-10-12","passed","2026-10-12","","test_login","",""
+"","38284","Отображение формы авторизации","ui_tests","2026-10-12","passed","2026-10-12","","test_login","",""
+"","1235","Создание задачи в колонке «В работе»","ui_tests","2026-10-12","passed","2026-10-12","","test_task_creation","",""
+"","2493","Приглашение сотрудника в компанию по почте","ui_tests","2026-10-12","passed","2026-10-12","","test_invite_employee","",""
+"","22709","Отображение кнопки создания проекта после входа","ui_tests","2026-10-12","passed","2026-10-12","","test_projects","",""
+"","19436","Открытие формы создания проекта","ui_tests","2026-10-12","passed","2026-10-12","","test_project_creation","",""
